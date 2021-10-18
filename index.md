@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/mohantechis/Seoul_Bike_dataSet.git)
 
-<img src="Desktop/seoul-bikes.jpeg?raw=true"/>
+<img src="images/seoul-bikes.jpeg?raw=true"/>
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -19,7 +19,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 ](https://github.com/mohantechis/Banking_Institution_Project.git)
 
-<img src="/Users/musubimanagement/Desktop/bank.jpg?raw=true"/>
+<img src="images/bank.jpg?raw=true"/>
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
