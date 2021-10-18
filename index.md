@@ -21,14 +21,26 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <img src="images/bank1.png?raw=true"/>
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Since this is real world data , A good practice is to make sure the dataset is devoid of any nuances
+
+1. Get the dtypes of all the columns of our dataset 
+2. Refering to the UCI data description , explore the data in your columns and check if there are any errors 
+3. Make note of the deviation in the dataset compared to the description provided by UCI 
+4. Using Data Cleaning principles you learned from Pandas Tutorial) figure out the best ways to get rid of the dirty data 
+5. Print the cleaned data Used Logistic regression classifier & optimized the accuracy by using the ROC curve
+6. Use the groupby function on the mean of the following columns :
+
+I : y II : job III : marital IV : education
+
+Make a note of what you learn from the outputs !
+# EDA Part
+Part 1 : Create bar graphs to the frequency of purchase with respect to the job , martial etc 
+Part II : Also create stacked bars to same data columns with respect to job
+Part III : Explore the age column using a histogram and note down your observations
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mohantechis/KNN_NB_Project.git)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
