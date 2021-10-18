@@ -19,7 +19,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 ](https://github.com/mohantechis/Banking_Institution_Project.git)
 
-<img src="Desktop/bank.jpg?raw=true"/>
+<img src="/Users/musubimanagement/Desktop/bank.jpg?raw=true"/>
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
