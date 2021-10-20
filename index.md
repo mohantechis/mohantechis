@@ -8,12 +8,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
+<h4>Skills Used</h4><p>Python,Pandas,Sklearn, Linear Regression</p>
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- The data had quite a few categorical variables which were dummied for use in the model
+- Dummied categorical variables to numeric using Sklearn due to the presence of many string columns
 - Fit a multiple linear regression model with high prediction accuracy through iteration
 
-***
+*** 
 
 [Portuguese banking institution.
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
@@ -21,22 +22,11 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <img src="images/bank1.png?raw=true"/>
 
-- Since this is real world data , A good practice is to make sure the dataset is devoid of any nuances
+<h4>Skills Used</h4><p>Python, Pandas, Sklearn, Logistic Regression</p>
+- This project analyzes a Portuguese bank's direct phone call marketing campaigns, which aimed to promote term deposits among existing customers. The campaigns were carried out from May 2008 to November 2010.
 
-1. Get the dtypes of all the columns of our dataset 
-2. Refering to the UCI data description , explore the data in your columns and check if there are any errors 
-3. Make note of the deviation in the dataset compared to the description provided by UCI 
-4. Using Data Cleaning principles you learned from Pandas Tutorial) figure out the best ways to get rid of the dirty data 
-5. Print the cleaned data Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-6. Use the groupby function on the mean of the following columns :
+The main objective is to predict customers' responses to future marketing campaigns, through classification and regression models, so that the bank can focus its marketing efforts on the most responsive customers. The models would help the bank to secure deposits more efficiently, save marketing costs and reduce undesirable advertisements to customers.
 
-I : y II : job III : marital IV : education
-
-Make a note of what you learn from the outputs !
-# EDA Part
-Part 1 : Create bar graphs to the frequency of purchase with respect to the job , martial etc 
-Part II : Also create stacked bars to same data columns with respect to job
-Part III : Explore the age column using a histogram and note down your observations
 
 ***
 
