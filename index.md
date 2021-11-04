@@ -13,8 +13,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <h4>Quantifiable Result: </h4><p>We could predict the bike Rental Demand resulting in<strong> XX</strong> accuracy</p>
 <!-- <h4>Quantifiable Result:</h4><p>We could predict the bike Rental Demand resulting in <b>XX</b> accuracy</p> -->
-<br></br>
+<br>
 *** 
+<br>
 
 [Portuguese banking institution.](https://github.com/mohantechis/Banking_Institution_Project.git)
 
@@ -27,8 +28,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <h4>Quantifiable Result: </h4><p>we Can Predict Customer's Response with<strong> XX</strong> accuracy</p>
 
-
+<br>
 ***
+<br>
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mohantechis/KNN_NB_Project.git)
 
