@@ -39,4 +39,4 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <p>Python, Pandas, Sklearn, KNN</p>
 <h4>Project Objective: </h4><p>The main objective is to identifying symptoms of orthopedic patients as normal or abnormal</p>
 
-<h4>Quantifiable Result: </h4><p>we Can Identify symptoms of orthopedic patients as normal or abnormal with<strong> 82.8%</strong> accuracy</p>
+<h4>Quantifiable Result: </h4><p>We Can Identify symptoms of orthopedic patients as normal or abnormal with<strong> 82.8%</strong> accuracy</p>
