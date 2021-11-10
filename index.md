@@ -8,8 +8,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-<h4>Skills Used</h4><p>Python,Pandas,Sklearn,Matplotlib, Linear Regression</p>
-<h4>Project Objective</h4><p>Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.</p>
+<Strong>Skills Used: </strong><p>Python,Pandas,Sklearn,Matplotlib, Linear Regression</p>
+<h4>Project Objective: </h4><p>Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.</p>
 
 <h4>Quantifiable Result: </h4><p>We could predict the bike Rental Demand resulting in<strong> 55 % </strong> accuracy</p>
 <!-- <h4>Quantifiable Result:</h4><p>We could predict the bike Rental Demand resulting in <b> 55% </b> accuracy</p> -->
@@ -20,7 +20,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/bank1.png?raw=true"/>
 
-<h4>Skills Used</h4><p>Python, Pandas, Sklearn, Logistic Regression</p>
+<h4>Skills Used: </h4><p>Python, Pandas, Sklearn, Logistic Regression</p>
 <h4>Project Objective: </h4><p>The main objective is to predict customers' responses to future marketing campaigns, through classification and regression models, so that the bank can focus its marketing efforts on the most responsive customers. The models would help the bank to secure deposits more efficiently, save marketing costs and reduce undesirable advertisements to customers.
 
 <!-- <h4>Quantifiable Result:</h4><p>we Can Predict Customer's Response with<b>XX<b> accuracy</p> -->
@@ -35,7 +35,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-<h4>Skills Used</h4>
+<h4>Skills Used: </h4>
 <p>Python, Pandas, Sklearn, KNN</p>
 <h4>Project Objective: </h4><p>In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .</p>
 
