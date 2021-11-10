@@ -25,7 +25,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <!-- <h4>Quantifiable Result:</h4><p>we Can Predict Customer's Response with<b>XX<b> accuracy</p> -->
 
-<h4>Quantifiable Result: </h4><p>we Can Predict Customer's Response with<strong>85%</strong> accuracy</p>
+<h4>Quantifiable Result: </h4><p>We Can Predict Customer's Response with  <strong>85%</strong> accuracy</p>
 
 <hr/>
 
@@ -37,6 +37,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <h4>Skills Used</h4>
 <p>Python, Pandas, Sklearn, KNN</p>
-<h4>Project Objective: </h4><p>The main objective is to identifying symptoms of orthopedic patients as normal or abnormal</p>
+<h4>Project Objective: </h4><p>In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .</p>
 
 <h4>Quantifiable Result: </h4><p>We Can Identify symptoms of orthopedic patients as normal or abnormal with<strong> 82.8%</strong> accuracy</p>
